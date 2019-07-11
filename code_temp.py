@@ -30,8 +30,8 @@ url = "http://blog.csdn.net/1024.html"
 # 登录页面信息
 main_url = 'https://passport.csdn.net/account/login'
 formdata = {
-    "username":"1103248903@qq.com",
-    "password":"7810791fu",
+    "username":"Your name",
+    "password":"***",
     "redir":"http://blog.csdn.net/1024.html"
 }
 
