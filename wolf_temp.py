@@ -15,7 +15,7 @@ def MakeUrl(start):
 main_url = 'https://accounts.douban.com/login?source=movie'
 formdata = {
     "form_email":"rongliangfu@outlook.com",
-    "form_password":"furl1111",
+    "form_password":"***",
     "source":"movie",
     "redir":"https://movie.douban.com/subject/26934346/",
     "login":"登录"
